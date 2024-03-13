@@ -7,7 +7,7 @@ A simple monthly expenses tracker/notebook and data visualization
 ![alt text](https://raw.githubusercontent.com/st0bb3n/MonthlyBillTracker/main/image_2024-03-13_204834752.png)
 
 ## Features
-Easily add your bills via the CSV file
+Monthly budget allocation, bill summary, bills chart, csv data
 
 ![alt text](https://raw.githubusercontent.com/st0bb3n/MonthlyBillTracker/main/image_2024-03-13_205109845.png)
 ## How to
